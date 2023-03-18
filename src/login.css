@@ -1,0 +1,37 @@
+#login {
+    -fx-alignment: center;
+    -fx-background-color:#2CD6D3;
+    -fx-text-alignment: center;
+
+}
+
+#input {
+    -fx-prompt-text-fill: black;
+    -fx-background-color: #F7C043;
+    -fx-padding: 5 20;
+    -fx-background-radius: 20;
+}
+
+#Buttons {
+    -fx-background-color: #9BD439;
+    -fx-text-fill: black;
+    -fx-font-size: 10pt;
+    -fx-padding: 5 20;
+    -fx-background-radius: 20;
+-fx-border-radius: 20;
+}
+#text{
+-fx-text-fill: black;
+    -fx-font-size: 16pt;
+
+}
+#labels{
+-fx-text-fill: #EB4B58;
+-fx-font-size: 16pt;
+-fx-font-weight: bold;
+}
+#labelsValue{
+-fx-text-fill: black;
+-fx-font-size: 16pt;
+-fx-font-weight: bold;
+}
